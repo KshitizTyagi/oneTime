@@ -1,5 +1,8 @@
 import google.genai as genai
-
+# AIzaSyAIc_Fz_vd1TtGh7Yl3eyiTHHhuIRuunUs
+# AIzaSyC7DgO56QccwsW3pSLlsyNZXNx58QkBmL8
+# AIzaSyDsypUeBkZBxbRptPUngeZebN7vxs8Ste8
+# AIzaSyABwNU96E4A9ncWzdXX_WdMC2pHoHIiyUY
 client = genai.Client(api_key="YOUR_API_KEY")
 content= '''
 
